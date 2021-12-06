@@ -1,0 +1,6 @@
+site_name: Shadow the Hedgehog Speedrunning
+site_url: https://shadowspeedrun.com/
+theme: slate
+repo_url: https://github.com/example/repository/
+nav:
+    - Home: index.md
