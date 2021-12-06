@@ -1,1 +1,1 @@
-Access site at: [ShadowSpeedrun.github.io](https://ShadowSpeedrun.github.io)
+Access site at: [shadowspeedrun.com](https://www.shadowspeedrun.com)
