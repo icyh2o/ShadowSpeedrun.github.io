@@ -5,5 +5,37 @@ repo_url: https://github.com/ShadowSpeedrun/ShadowSpeedrun.github.io
 edit_uri: ""
 nav:
     - Home: index.md
+    - Levels:
+        - Westopolis: Levels/Westopolis.md
+        - Digital Circuit: Levels/DigitalCircuit.md
+        - Glyphic Canyon: Levels/GlyphicCanyon.md
+        - Lethal Highway: Levels/LethalHighway.md
+        - Cryptic Castle: Levels/CrypticCastle.md
+        - Prison Island: Levels/PrisonIsland.md
+        - Circus Park: Levels/CircusPark.md
+        - Central City: Levels/CentralCity.md
+        - The Doom: Levels/TheDoom.md
+        - Sky Troops: Levels/SkyTroops.md
+        - Mad Matrix: Levels/MadMatrix.md
+        - Death Ruins: Levels/DeathRuins.md
+        - The ARK: Levels/TheARK.md
+        - Air Fleet: Levels/AirFleet.md
+        - Iron Jungle: Levels/IronJungle.md
+        - Space Gadget: Levels/SpaceGadget.md
+        - Lost Impact: Levels/LostImpact.md
+        - GUN Fortress: Levels/GUNFortress.md
+        - Black Comet: Levels/BlackComet.md
+        - Lava Shelter: Levels/LavaShelter.md
+        - Cosmic Fall: Levels/CosmicFall.md
+        - Final Haunt: Levels/FinalHaunt.md
+        - The Last Way: Levels/TheLastWay.md
+    - Bosses:
+        - Black Bull: Bosses/BlackBull.md
+        - Egg Breaker: Bosses/EggBreaker.md
+        - Heavy Dog / Blue Falcon: Bosses/HeavyDogBlueFalcon.md
+        - Black Doom: Bosses/BlackDoom.md
+        - Sonic and Diablon: Bosses/SonicAndDiablon.md
+        - Egg Dealer: Bosses/EggDealer.md
+        - Final Doom: Bosses/FinalDoom.md
     - Guides:
-        - Health, Points, and Other Values for Routing: ShadowPointsGuide.md
+        - Health, Points, and Other Values for Routing: Guides/ShadowPointsGuide.md
