@@ -22,9 +22,9 @@
 <br />
 
 ## Shadow Boxes
-| | Box 1|Box 2|
-|-|-|-|
-|__Location__|X|x
+| | Box 1|Box 2|Box 3|
+|-|-|-|-|
+|__Location__|[ ![](../../img/ShadowBoxes/LavaShelterShadowBox1.png) ](../../img/ShadowBoxes/LavaShelterShadowBox1.png)|[ ![](../../img/ShadowBoxes/LavaShelterShadowBox2.png) ](../../img/ShadowBoxes/LavaShelterShadowBox2.png)|[ ![](../../img/ShadowBoxes/LavaShelterShadowBox3.png) ](../../img/ShadowBoxes/LavaShelterShadowBox3.png)|
 |__Default Weapon__|x|X
 
 <br />

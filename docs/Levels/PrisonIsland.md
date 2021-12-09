@@ -24,9 +24,9 @@
 <br />
 
 ## Shadow Boxes
-| | Box 1|Box 2|
-|-|-|-|
-|__Location__|X|x
+| | Box 1|Box 2|BOx 3|
+|-|-|-|-|
+|__Location__|[ ![](../../img/ShadowBoxes/PrisonIslandShadowBox1.png) ](../../img/ShadowBoxes/PrisonIslandShadowBox1.png)|[ ![](../../img/ShadowBoxes/PrisonIslandShadowBox2.png) ](../../img/ShadowBoxes/PrisonIslandShadowBox2.png)|[ ![](../../img/ShadowBoxes/PrisonIslandShadowBox3.png) ](../../img/ShadowBoxes/PrisonIslandShadowBox3.png)|
 |__Default Weapon__|x|X
 
 <br />

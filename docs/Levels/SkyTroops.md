@@ -24,10 +24,10 @@
 <br />
 
 ## Shadow Boxes
-| | Box 1|Box 2|
-|-|-|-|
-|__Location__|X|x
-|__Default Weapon__|x|X
+| | Box 1|Box 2|Box 3|Box 4|
+|-|-|-|-|-|
+|__Location__|[ ![](../../img/ShadowBoxes/SkyTroopsShadowBox1.png) ](../../img/ShadowBoxes/SkyTroopsShadowBox1.png)|[ ![](../../img/ShadowBoxes/SkyTroopsShadowBox2.png) ](../../img/ShadowBoxes/SkyTroopsShadowBox2.png)|[ ![](../../img/ShadowBoxes/SkyTroopsShadowBox3.png) ](../../img/ShadowBoxes/SkyTroopsShadowBox3.png)|[ ![](../../img/ShadowBoxes/SkyTroopsShadowBox4.png) ](../../img/ShadowBoxes/SkyTroopsShadowBox4.png)|
+|__Default Weapon__|x|X| | |
 
 <br />
 

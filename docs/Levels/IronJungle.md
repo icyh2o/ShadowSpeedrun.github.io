@@ -27,9 +27,9 @@
 <br />
 
 ## Shadow Boxes
-| | Box 1|Box 2|
-|-|-|-|
-|__Location__|X|x
+| | Box 1|Box 2|Box 3|
+|-|-|-|-|
+|__Location__|[ ![](../../img/ShadowBoxes/IronJungleShadowBox1.png) ](../../img/ShadowBoxes/IronJungleShadowBox1.png)|[ ![](../../img/ShadowBoxes/IronJungleShadowBox2.png) ](../../img/ShadowBoxes/IronJungleShadowBox2.png)|[ ![](../../img/ShadowBoxes/IronJungleShadowBox3.png) ](../../img/ShadowBoxes/IronJungleShadowBox3.png)|
 |__Default Weapon__|x|X
 
 <br />
