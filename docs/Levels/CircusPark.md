@@ -24,10 +24,10 @@
 <br />
 
 ## Shadow Boxes
-| | Box 1|Box 2|
+| |Box 1|Box 2|
 |-|-|-|
 |__Location__|X|x
-|__Default Weapon__|x|X
+|__Default Weapon__|Assault Rifle|Heavy Machine Gun|
 
 <br />
 

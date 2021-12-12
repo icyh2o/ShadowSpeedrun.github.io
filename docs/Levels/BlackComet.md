@@ -24,10 +24,10 @@
 <br />
 
 ## Shadow Boxes
-| | Box 1|Box 2|
-|-|-|-|
-|__Location__|X|x
-|__Default Weapon__|x|X
+| |Box 1|Box 2|Box 3|Box 4|Box 5|
+|-|-|-|-|-|-|
+|__Location__|X|x|X|x|X|
+|__Default Weapon__|8 Shot Launcher|Flash Shot|Light Shot|Tank Cannon|Laser Rifle|
 
 <br />
 

@@ -24,10 +24,10 @@
 <br />
 
 ## Shadow Boxes
-| | Box 1|Box 2|
-|-|-|-|
-|__Location__|X|x
-|__Default Weapon__|x|X
+| |Box 1|Box 2|Box 3|
+|-|-|-|-|
+|__Location__|X|x|X|
+|__Default Weapon__|Ring Shot|Ring Shot|Heavy Shot|
 
 <br />
 

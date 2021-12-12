@@ -24,10 +24,10 @@
 <br />
 
 ## Shadow Boxes
-| | Box 1|Box 2|BOx 3|
+| |Box 1|Box 2|Box 3|
 |-|-|-|-|
 |__Location__|[ ![](../../img/ShadowBoxes/PrisonIslandShadowBox1.png) ](../../img/ShadowBoxes/PrisonIslandShadowBox1.png)|[ ![](../../img/ShadowBoxes/PrisonIslandShadowBox2.png) ](../../img/ShadowBoxes/PrisonIslandShadowBox2.png)|[ ![](../../img/ShadowBoxes/PrisonIslandShadowBox3.png) ](../../img/ShadowBoxes/PrisonIslandShadowBox3.png)|
-|__Default Weapon__|x|X
+|__Default Weapon__|Heavy Machine Gun|Ring Shot|Ring Shot|
 
 <br />
 

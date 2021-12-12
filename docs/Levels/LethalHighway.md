@@ -27,10 +27,10 @@
 <br />
 
 ## Shadow Boxes
-| | Box 1|Box 2|
-|-|-|-|
-|__Location__|X|x
-|__Default Weapon__|x|X
+| |Box 1|Box 2|Box 3|Box 4|
+|-|-|-|-|-|
+|__Location__|X|x|X|x|
+|__Default Weapon__|Assault Rifle|Flash Shot|Assault Rifle|Assault Rifle
 
 <br />
 

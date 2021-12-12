@@ -24,10 +24,10 @@
 <br />
 
 ## Shadow Boxes
-| | Box 1|
+| |Box 1|
 |-|-|
 |__Location__|[ ![](../../img/ShadowBoxes/WestopolisShadowBox1.png) ](../../img/ShadowBoxes/WestopolisShadowBox1.png)|
-|__Default Weapon__|x|
+|__Default Weapon__|Flash Shot|
 
 <br />
 

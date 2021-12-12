@@ -27,10 +27,10 @@
 <br />
 
 ## Shadow Boxes
-| | Box 1|Box 2|
+| |Box 1|Box 2|
 |-|-|-|
-|__Location__|X|x
-|__Default Weapon__|x|X
+|__Location__|X|x|
+|__Default Weapon__|Egg Bazooka|Worm Launcher|
 
 <br />
 
