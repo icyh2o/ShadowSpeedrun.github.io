@@ -19,7 +19,7 @@
 ## Key Locations
 |Key 1|Key 2|Key 3|Key 4|Key 5|
 |--|--|--|--|--|
-|Image|Image|Image|Image|Image|
+|[ ![](../../img/GlyphicCanyon/GlyphicCanyon-Key1.png) ](../../img/GlyphicCanyon/GlyphicCanyon-Key1.png)|[ ![](../../img/GlyphicCanyon/GlyphicCanyon-Key2.png) ](../../img/GlyphicCanyon/GlyphicCanyon-Key2.png)|[ ![](../../img/GlyphicCanyon/GlyphicCanyon-Key3.png) ](../../img/GlyphicCanyon/GlyphicCanyon-Key3.png)|[ ![](../../img/GlyphicCanyon/GlyphicCanyon-Key4.png) ](../../img/GlyphicCanyon/GlyphicCanyon-Key4.png)|[ ![](../../img/GlyphicCanyon/GlyphicCanyon-Key5.png) ](../../img/GlyphicCanyon/GlyphicCanyon-Key5.png)|
 
 <br />
 

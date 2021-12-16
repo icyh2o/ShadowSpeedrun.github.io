@@ -19,7 +19,7 @@
 ## Key Locations
 |Key 1|Key 2|Key 3|Key 4|Key 5|
 |--|--|--|--|--|
-|Image|Image|Image|Image|Image|
+|[ ![](../../img/Westopolis/Westopolis-Key1.png) ](../../img/Westopolis/Westopolis-Key1.png)|[ ![](../../img/Westopolis/Westopolis-Key2.png) ](../../img/Westopolis/Westopolis-Key2.png)|[ ![](../../img/Westopolis/Westopolis-Key3.png) ](../../img/Westopolis/Westopolis-Key3.png)|[ ![](../../img/Westopolis/Westopolis-Key4.png) ](../../img/Westopolis/Westopolis-Key4.png)|[ ![](../../img/Westopolis/Westopolis-Key5.png) ](../../img/Westopolis/Westopolis-Key5.png)|
 
 <br />
 

@@ -17,7 +17,7 @@
 ## Key Locations
 |Key 1|Key 2|Key 3|Key 4|Key 5|
 |--|--|--|--|--|
-|Image|Image|Image|Image|Image|
+|[ ![](../../img/LavaShelter/LavaShelter-Key1.png) ](../../img/LavaShelter/LavaShelter-Key1.png)|[ ![](../../img/LavaShelter/LavaShelter-Key2.png) ](../../img/LavaShelter/LavaShelter-Key2.png)|[ ![](../../img/LavaShelter/LavaShelter-Key3.png) ](../../img/LavaShelter/LavaShelter-Key3.png)|[ ![](../../img/LavaShelter/LavaShelter-Key4.png) ](../../img/LavaShelter/LavaShelter-Key4.png)|[ ![](../../img/LavaShelter/LavaShelter-Key5.png) ](../../img/LavaShelter/LavaShelter-Key5.png)|
 
 <br />
 

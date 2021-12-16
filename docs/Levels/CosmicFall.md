@@ -19,7 +19,7 @@
 ## Key Locations
 |Key 1|Key 2|Key 3|Key 4|Key 5|
 |--|--|--|--|--|
-|Image|Image|Image|Image|Image|
+|[ ![](../../img/CosmicFall/CosmicFall-Key1.png) ](../../img/CosmicFall/CosmicFall-Key1.png)|[ ![](../../img/CosmicFall/CosmicFall-Key2.png) ](../../img/CosmicFall/CosmicFall-Key2.png)|[ ![](../../img/CosmicFall/CosmicFall-Key3.png) ](../../img/CosmicFall/CosmicFall-Key3.png)|[ ![](../../img/CosmicFall/CosmicFall-Key4.png) ](../../img/CosmicFall/CosmicFall-Key4.png)|[ ![](../../img/CosmicFall/CosmicFall-Key5.png) ](../../img/CosmicFall/CosmicFall-Key5.png)|
 
 <br />
 
