@@ -26,11 +26,23 @@
 
 <br />
 
+## Secret Doors
+<!--Working space is 830 pixels. Need some extra pixels for spacing.-->
+<p>
+	<a href="../../img/LethalHighway/LethalHighway-SecretDoor.png"><img src="../../img/LethalHighway/LethalHighway-SecretDoor.png" width="410" /></a>
+	<a href="../../img/LethalHighway/LethalHighway-SecretDoorItems.png"><img src="../../img/LethalHighway/LethalHighway-SecretDoorItems.png" width="410" /></a>
+</p>
+
+The Secret Door in Lethal Highway guards two Gatling Guns, which are powerful weapons at this point in the level (Excluding Shadow Box).
+
+<br />
+
+
 ## Shadow Boxes
-| |Box 1|Box 2|Box 3|Box 4|
-|-|-|-|-|-|
-|__Location__|X|x|X|x|
-|__Default Weapon__|Assault Rifle|Flash Shot|Assault Rifle|Assault Rifle
+| |Box 1|Box 2|Box 3|Box 4|Box 5|
+|-|-|-|-|-|-|
+|__Location__|[ ![](../img/LethalHighway/LethalHighway-SpecialWeaponsContainer1.png) ](../img/LethalHighway/LethalHighway-SpecialWeaponsContainer1.png)|[ ![](../img/LethalHighway/LethalHighway-SpecialWeaponsContainer2.png) ](../img/LethalHighway/LethalHighway-SpecialWeaponsContainer2.png)|[ ![](../img/LethalHighway/LethalHighway-SpecialWeaponsContainer3.png) ](../img/LethalHighway/LethalHighway-SpecialWeaponsContainer3.png)|[ ![](../img/LethalHighway/LethalHighway-SpecialWeaponsContainer4.png) ](../img/LethalHighway/LethalHighway-SpecialWeaponsContainer4.png)|[ ![](../img/LethalHighway/LethalHighway-SpecialWeaponsContainer5.png) ](../img/LethalHighway/LethalHighway-SpecialWeaponsContainer5.png)|
+|__Default Weapon__|Assault Rifle|Flash Shot|Assault Rifle|Assault Rifle|Assault Rifle|
 
 <br />
 

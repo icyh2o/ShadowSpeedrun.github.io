@@ -24,17 +24,17 @@
 <br />
 
 
-## Key Doors
-[ ![](../../img/KeyDoors/CosmicFall/CosmicFallKeyDoor1.png) ](../../img/KeyDoors/CosmicFall/CosmicFallKeyDoor1.png)
+## Secret Doors
+[ ![](../../img/CosmicFall/CosmicFallKeyDoor1.png) ](../../img/CosmicFall/CosmicFallKeyDoor1.png)
 
-The Key Door in Cosmic Fall has a switch that opens a door near the Key Door. The door blocks an extra life container. The switch also sets many light dash trails throughout the rest of the stage, which are shortcuts for getting to the computer room quickly.
+The Secret Door in Cosmic Fall has a switch that opens a door near the Key Door. The door blocks an extra life container. The switch also sets many light dash trails throughout the rest of the stage, which are shortcuts for getting to the computer room quickly.
 
 <br />
 
 ## Shadow Boxes
 | |Box 1|Box 2|
 |-|-|-|
-|__Location__|[ ![](../../img/ShadowBoxes/CosmicFallShadowBox1.png) ](../../img/ShadowBoxes/CosmicFallShadowBox1.png)|[ ![](../../img/ShadowBoxes/CosmicFallShadowBox2.png) ](../../img/ShadowBoxes/CosmicFallShadowBox2.png)|
+|__Location__|[ ![](../../img/CosmicFall/CosmicFallShadowBox1.png) ](../../img/CosmicFall/CosmicFallShadowBox1.png)|[ ![](../../img/CosmicFall/CosmicFallShadowBox2.png) ](../../img/CosmicFall/CosmicFallShadowBox2.png)|
 |__Default Weapon__|Heavy Machine Gun|Laser Rifle|
 
 <br />

@@ -23,10 +23,18 @@
 
 <br />
 
+## Secret Doors
+<!--Working space is 830 pixels. Need some extra pixels for spacing.-->
+[ ![](../img/GUNFortress/GUNFortress-SecretDoor.png) ](../img/GUNFortress/GUNFortress-SecretDoor.png)
+
+The Secret Door in GUN Fortress opens up a secret shortcut the skips the triangle jump and long grabrail sections. Very useful in runs.
+
+<br />
+
 ## Shadow Boxes
 | |Box 1|Box 2|
 |-|-|-|
-|__Location__|X|x
+|__Location__|[ ![](../img/GUNFortress/GUNFortress-SpecialWeaponsContainer1.png) ](../img/GUNFortress/GUNFortress-SpecialWeaponsContainer1.png)|[ ![](../img/GUNFortress/GUNFortress-SpecialWeaponsContainer2.png) ](../img/GUNFortress/GUNFortress-SpecialWeaponsContainer2.png)
 |__Default Weapon__|Assault Rifle|Assault Rifle
 
 <br />

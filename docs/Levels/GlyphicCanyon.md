@@ -26,7 +26,7 @@
 ## Shadow Boxes
 | |Box 1|Box 2|Box 3|Box 4|
 |-|-|-|-|-|
-|__Location__|[ ![](../../img/ShadowBoxes/GlyphicCanyonShadowBox1.png) ](../../img/ShadowBoxes/GlyphicCanyonShadowBox1.png)|[ ![](../../img/ShadowBoxes/GlyphicCanyonShadowBox2.png) ](../../img/ShadowBoxes/GlyphicCanyonShadowBox2.png)|[ ![](../../img/ShadowBoxes/GlyphicCanyonShadowBox3.png) ](../../img/ShadowBoxes/GlyphicCanyonShadowBox3.png)|[ ![](../../img/ShadowBoxes/GlyphicCanyonShadowBox4.png) ](../../img/ShadowBoxes/GlyphicCanyonShadowBox4.png)|
+|__Location__|[ ![](../../img/GlyphicCanyon/GlyphicCanyonShadowBox1.png) ](../../img/GlyphicCanyon/GlyphicCanyonShadowBox1.png)|[ ![](../../img/GlyphicCanyon/GlyphicCanyonShadowBox2.png) ](../../img/GlyphicCanyon/GlyphicCanyonShadowBox2.png)|[ ![](../../img/GlyphicCanyon/GlyphicCanyonShadowBox3.png) ](../../img/GlyphicCanyon/GlyphicCanyonShadowBox3.png)|[ ![](../../img/GlyphicCanyon/GlyphicCanyonShadowBox4.png) ](../../img/GlyphicCanyon/GlyphicCanyonShadowBox4.png)|
 |__Default Weapon__|Granade Launcher|SMG|SMG|Flash Shot|
 
 <br />

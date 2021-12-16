@@ -29,7 +29,7 @@
 ## Shadow Boxes
 | |Box 1|Box 2|Box 3|
 |-|-|-|-|
-|__Location__|[ ![](../../img/ShadowBoxes/IronJungleShadowBox1.png) ](../../img/ShadowBoxes/IronJungleShadowBox1.png)|[ ![](../../img/ShadowBoxes/IronJungleShadowBox2.png) ](../../img/ShadowBoxes/IronJungleShadowBox2.png)|[ ![](../../img/ShadowBoxes/IronJungleShadowBox3.png) ](../../img/ShadowBoxes/IronJungleShadowBox3.png)|
+|__Location__|[ ![](../../img/IronJungle/IronJungleShadowBox1.png) ](../../img/IronJungle/IronJungleShadowBox1.png)|[ ![](../../img/IronJungle/IronJungleShadowBox2.png) ](../../img/IronJungle/IronJungleShadowBox2.png)|[ ![](../../img/IronJungle/IronJungleShadowBox3.png) ](../../img/IronJungle/IronJungleShadowBox3.png)|
 |__Default Weapon__|Egg Gun|Egg Gun|Egg Bazooka|
 
 <br />

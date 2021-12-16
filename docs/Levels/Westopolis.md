@@ -26,7 +26,7 @@
 ## Shadow Boxes
 | |Box 1|
 |-|-|
-|__Location__|[ ![](../../img/ShadowBoxes/WestopolisShadowBox1.png) ](../../img/ShadowBoxes/WestopolisShadowBox1.png)|
+|__Location__|[ ![](../../img/Westopolis/WestopolisShadowBox1.png) ](../../img/Westopolis/WestopolisShadowBox1.png)|
 |__Default Weapon__|Flash Shot|
 
 <br />

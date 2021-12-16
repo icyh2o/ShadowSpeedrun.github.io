@@ -26,17 +26,17 @@
 
 <br />
 
-## Key Doors
-[ ![](../../img/KeyDoors/DeathRuins/DeathRuinsKeyDoor.png) ](../../img/KeyDoors/DeathRuins/DeathRuinsKeyDoor.png)
+## Secret Doors
+[ ![](../../img/DeathRuins/DeathRuinsKeyDoor.png) ](../../img/DeathRuins/DeathRuinsKeyDoor.png)
 
-The Key Door in Death Ruins leads to an area with a dead end. The area has rails, springs, and Vines that lead to many items. The player can get extra lives and rings here, and the Warp Hole at the end of the area sends the player back to the front of the Key Door.
+The Secret Door in Death Ruins leads to an area with a dead end. The area has rails, springs, and Vines that lead to many items. The player can get extra lives and rings here, and the Warp Hole at the end of the area sends the player back to the front of the Key Door.
 
 <br />
 
 ## Shadow Boxes
 | |Box 1|Box 2|
 |-|-|-|
-|__Location__|[ ![](../../img/ShadowBoxes/DeathRuinsShadowBox1.png) ](../../img/ShadowBoxes/DeathRuinsShadowBox1.png)|[ ![](../../img/ShadowBoxes/DeathRuinsShadowBox2.png) ](../../img/ShadowBoxes/DeathRuinsShadowBox2.png)|
+|__Location__|[ ![](../../img/DeathRuins/DeathRuinsShadowBox1.png) ](../../img/DeathRuins/DeathRuinsShadowBox1.png)|[ ![](../../img/DeathRuins/DeathRuinsShadowBox2.png) ](../../img/DeathRuins/DeathRuinsShadowBox2.png)|
 |__Default Weapon__|Assault Rifle|Granade Launcher|
 
 <br />
