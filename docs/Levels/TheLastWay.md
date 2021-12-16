@@ -3,7 +3,7 @@
 <br />
 
 ## Boss After Mission
-[Final Doom](../../Bosses/FinalDoom)
+[Devil Doom](../../Bosses/DevilDoom)
 
 <br />
 
