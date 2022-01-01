@@ -8,7 +8,7 @@
 |[The ARK](../TheARK)|[Air Fleet](../AirFleet)|[Iron Jungle](../IronJungle)|
 
 ### Boss After Missions
-[Heavy Dog](../../Bosses/HeavyDogBlueFalcon)
+[Heavy Dog](../Bosses/HeavyDogBlueFalcon)
 
 <br />
 
@@ -22,7 +22,7 @@
 ## Key Locations
 |Key 1|Key 2|Key 3|Key 4|Key 5|
 |--|--|--|--|--|
-|[ ![](../../img/TheDoom/TheDoom-Key1.png) ](../../img/TheDoom/TheDoom-Key1.png)|[ ![](../../img/TheDoom/TheDoom-Key2.png) ](../../img/TheDoom/TheDoom-Key2.png)|[ ![](../../img/TheDoom/TheDoom-Key3.png) ](../../img/TheDoom/TheDoom-Key3.png)|[ ![](../../img/TheDoom/TheDoom-Key4.png) ](../../img/TheDoom/TheDoom-Key4.png)|[ ![](../../img/TheDoom/TheDoom-Key5.png) ](../../img/TheDoom/TheDoom-Key5.png)|
+|[ ![](../img/TheDoom/TheDoom-Key1.png) ](../img/TheDoom/TheDoom-Key1.png)|[ ![](../img/TheDoom/TheDoom-Key2.png) ](../img/TheDoom/TheDoom-Key2.png)|[ ![](../img/TheDoom/TheDoom-Key3.png) ](../img/TheDoom/TheDoom-Key3.png)|[ ![](../img/TheDoom/TheDoom-Key4.png) ](../img/TheDoom/TheDoom-Key4.png)|[ ![](../img/TheDoom/TheDoom-Key5.png) ](../img/TheDoom/TheDoom-Key5.png)|
 
 <br />
 

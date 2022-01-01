@@ -3,7 +3,7 @@
 <br />
 
 ## Boss After Mission
-[Devil Doom](../../Bosses/DevilDoom)
+[Devil Doom](../Bosses/DevilDoom)
 
 <br />
 
@@ -17,7 +17,7 @@
 ## Key Locations
 |Key 1|Key 2|Key 3|Key 4|Key 5|
 |--|--|--|--|--|
-|[ ![](../../img/TheLastWay/TheLastWay-Key1.png) ](../../img/TheLastWay/TheLastWay-Key1.png)|[ ![](../../img/TheLastWay/TheLastWay-Key2.png) ](../../img/TheLastWay/TheLastWay-Key2.png)|[ ![](../../img/TheLastWay/TheLastWay-Key3.png) ](../../img/TheLastWay/TheLastWay-Key3.png)|[ ![](../../img/TheLastWay/TheLastWay-Key4.png) ](../../img/TheLastWay/TheLastWay-Key4.png)|[ ![](../../img/TheLastWay/TheLastWay-Key5.png) ](../../img/TheLastWay/TheLastWay-Key5.png)|
+|[ ![](../img/TheLastWay/TheLastWay-Key1.png) ](../img/TheLastWay/TheLastWay-Key1.png)|[ ![](../img/TheLastWay/TheLastWay-Key2.png) ](../img/TheLastWay/TheLastWay-Key2.png)|[ ![](../img/TheLastWay/TheLastWay-Key3.png) ](../img/TheLastWay/TheLastWay-Key3.png)|[ ![](../img/TheLastWay/TheLastWay-Key4.png) ](../img/TheLastWay/TheLastWay-Key4.png)|[ ![](../img/TheLastWay/TheLastWay-Key5.png) ](../img/TheLastWay/TheLastWay-Key5.png)|
 
 <br />
 

@@ -5,7 +5,7 @@
 ## Boss After Missions
 |Dark|Hero|
 |--|--|
-|[Sonic and Diablon](../../Bosses/SonicAndDiablon)|[Black Doom](../../Bosses/BlackDoom)|
+|[Sonic and Diablon](../Bosses/SonicAndDiablon)|[Black Doom](../Bosses/BlackDoom)|
 
 <br />
 
@@ -19,7 +19,7 @@
 ## Key Locations
 |Key 1|Key 2|Key 3|Key 4|Key 5|
 |--|--|--|--|--|
-|[ ![](../../img/GUNFortress/GUNFortress-Key1.png) ](../../img/GUNFortress/GUNFortress-Key1.png)|[ ![](../../img/GUNFortress/GUNFortress-Key2.png) ](../../img/GUNFortress/GUNFortress-Key2.png)|[ ![](../../img/GUNFortress/GUNFortress-Key3.png) ](../../img/GUNFortress/GUNFortress-Key3.png)|[ ![](../../img/GUNFortress/GUNFortress-Key4.png) ](../../img/GUNFortress/GUNFortress-Key4.png)|[ ![](../../img/GUNFortress/GUNFortress-Key5.png) ](../../img/GUNFortress/GUNFortress-Key5.png)|
+|[ ![](../img/GUNFortress/GUNFortress-Key1.png) ](../img/GUNFortress/GUNFortress-Key1.png)|[ ![](../img/GUNFortress/GUNFortress-Key2.png) ](../img/GUNFortress/GUNFortress-Key2.png)|[ ![](../img/GUNFortress/GUNFortress-Key3.png) ](../img/GUNFortress/GUNFortress-Key3.png)|[ ![](../img/GUNFortress/GUNFortress-Key4.png) ](../img/GUNFortress/GUNFortress-Key4.png)|[ ![](../img/GUNFortress/GUNFortress-Key5.png) ](../img/GUNFortress/GUNFortress-Key5.png)|
 
 <br />
 

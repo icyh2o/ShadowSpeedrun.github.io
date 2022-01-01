@@ -19,7 +19,7 @@
 ## Key Locations
 |Key 1|Key 2|Key 3|Key 4|Key 5|
 |--|--|--|--|--|
-|[ ![](../../img/SpaceGadget/SpaceGadget-Key1.png) ](../../img/SpaceGadget/SpaceGadget-Key1.png)|[ ![](../../img/SpaceGadget/SpaceGadget-Key2.png) ](../../img/SpaceGadget/SpaceGadget-Key2.png)|[ ![](../../img/SpaceGadget/SpaceGadget-Key3.png) ](../../img/SpaceGadget/SpaceGadget-Key3.png)|[ ![](../../img/SpaceGadget/SpaceGadget-Key4.png) ](../../img/SpaceGadget/SpaceGadget-Key4.png)|[ ![](../../img/SpaceGadget/SpaceGadget-Key5.png) ](../../img/SpaceGadget/SpaceGadget-Key5.png)|
+|[ ![](../img/SpaceGadget/SpaceGadget-Key1.png) ](../img/SpaceGadget/SpaceGadget-Key1.png)|[ ![](../img/SpaceGadget/SpaceGadget-Key2.png) ](../img/SpaceGadget/SpaceGadget-Key2.png)|[ ![](../img/SpaceGadget/SpaceGadget-Key3.png) ](../img/SpaceGadget/SpaceGadget-Key3.png)|[ ![](../img/SpaceGadget/SpaceGadget-Key4.png) ](../img/SpaceGadget/SpaceGadget-Key4.png)|[ ![](../img/SpaceGadget/SpaceGadget-Key5.png) ](../img/SpaceGadget/SpaceGadget-Key5.png)|
 
 <br />
 

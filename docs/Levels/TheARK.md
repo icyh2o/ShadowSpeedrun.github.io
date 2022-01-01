@@ -8,7 +8,7 @@
 |[GUN Fortress](../GUNFortres)|[Black Comet](../BlackComet)|
 
 ### Boss After Missions
-[Blue Falcon](../../Bosses/HeavyDogBlueFalcon)
+[Blue Falcon](../Bosses/HeavyDogBlueFalcon)
 
 <br />
 
@@ -22,7 +22,7 @@
 ## Key Locations
 |Key 1|Key 2|Key 3|Key 4|Key 5|
 |--|--|--|--|--|
-|[ ![](../../img/TheARK/TheARK-Key1.png) ](../../img/TheARK/TheARK-Key1.png)|[ ![](../../img/TheARK/TheARK-Key2.png) ](../../img/TheARK/TheARK-Key2.png)|[ ![](../../img/TheARK/TheARK-Key3.png) ](../../img/TheARK/TheARK-Key3.png)|[ ![](../../img/TheARK/TheARK-Key4.png) ](../../img/TheARK/TheARK-Key4.png)|[ ![](../../img/TheARK/TheARK-Key5.png) ](../../img/TheARK/TheARK-Key5.png)|
+|[ ![](../img/TheARK/TheARK-Key1.png) ](../img/TheARK/TheARK-Key1.png)|[ ![](../img/TheARK/TheARK-Key2.png) ](../img/TheARK/TheARK-Key2.png)|[ ![](../img/TheARK/TheARK-Key3.png) ](../img/TheARK/TheARK-Key3.png)|[ ![](../img/TheARK/TheARK-Key4.png) ](../img/TheARK/TheARK-Key4.png)|[ ![](../img/TheARK/TheARK-Key5.png) ](../img/TheARK/TheARK-Key5.png)|
 
 <br />
 

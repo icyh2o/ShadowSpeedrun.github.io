@@ -8,7 +8,7 @@
 |[Iron Jungle](../IronJungle)|[Space Gadget](../SpaceGadget)|[Lost Impact](../LostImpact)|
 
 ### Boss After Missions
-[Egg Breaker](../../Bosses/EggBreaker)
+[Egg Breaker](../Bosses/EggBreaker)
 
 <br />
 
@@ -22,7 +22,7 @@
 ## Key Locations
 |Key 1|Key 2|Key 3|Key 4|Key 5|
 |--|--|--|--|--|
-|[ ![](../../img/MadMatrix/MadMatrix-Key1.png) ](../../img/MadMatrix/MadMatrix-Key1.png)|[ ![](../../img/MadMatrix/MadMatrix-Key2.png) ](../../img/MadMatrix/MadMatrix-Key2.png)|[ ![](../../img/MadMatrix/MadMatrix-Key3.png) ](../../img/MadMatrix/MadMatrix-Key3.png)|[ ![](../../img/MadMatrix/MadMatrix-Key4.png) ](../../img/MadMatrix/MadMatrix-Key4.png)|[ ![](../../img/MadMatrix/MadMatrix-Key5.png) ](../../img/MadMatrix/MadMatrix-Key5.png)|
+|[ ![](../img/MadMatrix/MadMatrix-Key1.png) ](../img/MadMatrix/MadMatrix-Key1.png)|[ ![](../img/MadMatrix/MadMatrix-Key2.png) ](../img/MadMatrix/MadMatrix-Key2.png)|[ ![](../img/MadMatrix/MadMatrix-Key3.png) ](../img/MadMatrix/MadMatrix-Key3.png)|[ ![](../img/MadMatrix/MadMatrix-Key4.png) ](../img/MadMatrix/MadMatrix-Key4.png)|[ ![](../img/MadMatrix/MadMatrix-Key5.png) ](../img/MadMatrix/MadMatrix-Key5.png)|
 
 <br />
 

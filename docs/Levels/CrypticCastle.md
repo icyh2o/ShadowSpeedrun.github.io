@@ -8,7 +8,7 @@
 |[Central City](../CentralCity)|[The Doom](../TheDoom)|[Sky Troops](../SkyTroops)|
 
 ### Boss After Missions
-[Egg Breaker](../../Bosses/EggBreaker)
+[Egg Breaker](../Bosses/EggBreaker)
 
 <br />
 
@@ -22,7 +22,7 @@
 ## Key Locations
 |Key 1|Key 2|Key 3|Key 4|Key 5|
 |--|--|--|--|--|
-|[ ![](../../img/CrypticCastle/CrypticCastle-Key1.png) ](../../img/CrypticCastle/CrypticCastle-Key1.png)|[ ![](../../img/CrypticCastle/CrypticCastle-Key2.png) ](../../img/CrypticCastle/CrypticCastle-Key2.png)|[ ![](../../img/CrypticCastle/CrypticCastle-Key3.png) ](../../img/CrypticCastle/CrypticCastle-Key3.png)|[ ![](../../img/CrypticCastle/CrypticCastle-Key4.png) ](../../img/CrypticCastle/CrypticCastle-Key4.png)|[ ![](../../img/CrypticCastle/CrypticCastle-Key5.png) ](../../img/CrypticCastle/CrypticCastle-Key5.png)|
+|[ ![](../img/CrypticCastle/CrypticCastle-Key1.png) ](../img/CrypticCastle/CrypticCastle-Key1.png)|[ ![](../img/CrypticCastle/CrypticCastle-Key2.png) ](../img/CrypticCastle/CrypticCastle-Key2.png)|[ ![](../img/CrypticCastle/CrypticCastle-Key3.png) ](../img/CrypticCastle/CrypticCastle-Key3.png)|[ ![](../img/CrypticCastle/CrypticCastle-Key4.png) ](../img/CrypticCastle/CrypticCastle-Key4.png)|[ ![](../img/CrypticCastle/CrypticCastle-Key5.png) ](../img/CrypticCastle/CrypticCastle-Key5.png)|
 
 <br />
 

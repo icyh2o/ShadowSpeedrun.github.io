@@ -19,7 +19,7 @@
 ## Key Locations
 |Key 1|Key 2|Key 3|Key 4|Key 5|
 |--|--|--|--|--|
-|[ ![](../../img/AirFleet/AirFleet-Key1.png) ](../../img/AirFleet/AirFleet-Key1.png)|[ ![](../../img/AirFleet/AirFleet-Key2.png) ](../../img/AirFleet/AirFleet-Key2.png)|[ ![](../../img/AirFleet/AirFleet-Key3.png) ](../../img/AirFleet/AirFleet-Key3.png)|[ ![](../../img/AirFleet/AirFleet-Key4.png) ](../../img/AirFleet/AirFleet-Key4.png)|[ ![](../../img/AirFleet/AirFleet-Key5.png) ](../../img/AirFleet/AirFleet-Key5.png)|
+|[ ![](../img/AirFleet/AirFleet-Key1.png) ](../img/AirFleet/AirFleet-Key1.png)|[ ![](../img/AirFleet/AirFleet-Key2.png) ](../img/AirFleet/AirFleet-Key2.png)|[ ![](../img/AirFleet/AirFleet-Key3.png) ](../img/AirFleet/AirFleet-Key3.png)|[ ![](../img/AirFleet/AirFleet-Key4.png) ](../img/AirFleet/AirFleet-Key4.png)|[ ![](../img/AirFleet/AirFleet-Key5.png) ](../img/AirFleet/AirFleet-Key5.png)|
 
 <br />
 

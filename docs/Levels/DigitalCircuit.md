@@ -19,7 +19,7 @@
 ## Key Locations
 |Key 1|Key 2|Key 3|Key 4|Key 5|
 |--|--|--|--|--|
-|[ ![](../../img/DigitalCircuit/DigitalCircuit-Key1.png) ](../../img/DigitalCircuit/DigitalCircuit-Key1.png)|[ ![](../../img/DigitalCircuit/DigitalCircuit-Key2.png) ](../../img/DigitalCircuit/DigitalCircuit-Key2.png)|[ ![](../../img/DigitalCircuit/DigitalCircuit-Key3.png) ](../../img/DigitalCircuit/DigitalCircuit-Key3.png)|[ ![](../../img/DigitalCircuit/DigitalCircuit-Key4.png) ](../../img/DigitalCircuit/DigitalCircuit-Key4.png)|[ ![](../../img/DigitalCircuit/DigitalCircuit-Key5.png) ](../../img/DigitalCircuit/DigitalCircuit-Key5.png)|
+|[ ![](../img/DigitalCircuit/DigitalCircuit-Key1.png) ](../img/DigitalCircuit/DigitalCircuit-Key1.png)|[ ![](../img/DigitalCircuit/DigitalCircuit-Key2.png) ](../img/DigitalCircuit/DigitalCircuit-Key2.png)|[ ![](../img/DigitalCircuit/DigitalCircuit-Key3.png) ](../img/DigitalCircuit/DigitalCircuit-Key3.png)|[ ![](../img/DigitalCircuit/DigitalCircuit-Key4.png) ](../img/DigitalCircuit/DigitalCircuit-Key4.png)|[ ![](../img/DigitalCircuit/DigitalCircuit-Key5.png) ](../img/DigitalCircuit/DigitalCircuit-Key5.png)|
 
 <br />
 
