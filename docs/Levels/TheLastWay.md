@@ -22,10 +22,12 @@
 <br />
 
 ## Shadow Boxes
-| |Box 1|Box 2|
-|-|-|-|
-|__Location__|X|x
-|__Default Weapon__|N/A|(Need Story Endings to unlock this stage)|
+Note: You should never be able to use the default weapons in these boxes due already having special weapons by time the stage is available to play.
+
+| |Box 1|Box 2|Box 3 & Box 4|
+|-|-|-|-|
+|__Location__|X|x|X|
+|__Default Weapon__|Ring Shot|Ring Shot|Flash Shot|
 
 <br />
 
