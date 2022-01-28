@@ -29,7 +29,7 @@
 ## Shadow Boxes
 | |Box 1|Box 2|
 |-|-|-|
-|__Location__|X|x
+|__Location__|[ ![](../img/TheARK/TheARK-SpecialWeaponsContainer1.png) ](../img/TheARK/TheARK-SpecialWeaponsContainer1.png)|[ ![](../img/TheARK/TheARK-SpecialWeaponsContainer2.png) ](../img/TheARK/TheARK-SpecialWeaponsContainer2.png)|
 |__Default Weapon__|Heavy Machine Gun|Empty(Likely caused by gravity glitch)|
 
 <br />

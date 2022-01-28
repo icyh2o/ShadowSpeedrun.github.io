@@ -29,7 +29,7 @@
 ## Shadow Boxes
 | |Box 1|Box 2|Box 3|
 |-|-|-|-|
-|__Location__|X|x|X|
+|__Location__|[ ![](../img/TheDoom/TheDoom-SpecialWeaponsContainer1.png) ](../img/TheDoom/TheDoom-SpecialWeaponsContainer1.png)|[ ![](../img/TheDoom/TheDoom-SpecialWeaponsContainer2.png) ](../img/TheDoom/TheDoom-SpecialWeaponsContainer2.png)|[ ![](../img/TheDoom/TheDoom-SpecialWeaponsContainer3.png) ](../img/TheDoom/TheDoom-SpecialWeaponsContainer3.png)|
 |__Default Weapon__|Assault Rifle|Heavy Machine Gun|Bazooka|
 
 <br />

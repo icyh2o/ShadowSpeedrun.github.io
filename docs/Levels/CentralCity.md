@@ -23,10 +23,11 @@
 
 <br />
 
+
 ## Shadow Boxes
 | |Box 1|Box 2|
 |-|-|-|
-|__Location__|X|x
+|__Location__|[ ![](../img/CentralCity/CentralCity-SpecialWeaponsContainer1.png) ](../img/CentralCity/CentralCity-SpecialWeaponsContainer1.png)|[ ![](../img/CentralCity/CentralCity-SpecialWeaponsContainer2.png) ](../img/CentralCity/CentralCity-SpecialWeaponsContainer2.png)|
 |__Default Weapon__|Heavy Machine Gun|Heavy Machine Gun|
 
 <br />

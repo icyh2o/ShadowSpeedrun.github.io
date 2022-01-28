@@ -26,7 +26,7 @@
 ## Shadow Boxes
 | |Box 1|
 |-|-|
-|__Location__|X|
+|__Location__|[ ![](../img/SpaceGadget/SpaceGadget-SpecialWeaponsContainer1.png) ](../img/SpaceGadget/SpaceGadget-SpecialWeaponsContainer1.png)|
 |__Default Weapon__|"Gold" Worm Launcher|
 
 <br />

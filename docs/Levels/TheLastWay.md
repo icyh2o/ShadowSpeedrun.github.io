@@ -26,7 +26,7 @@ Note: You should never be able to use the default weapons in these boxes due alr
 
 | |Box 1|Box 2|Box 3 & Box 4|
 |-|-|-|-|
-|__Location__|X|x|X|
+|__Location__|[ ![](../img/TheLastWay/TheLastWay-SpecialWeaponsContainer1.png) ](../img/TheLastWay/TheLastWay-SpecialWeaponsContainer1.png)|[ ![](../img/TheLastWay/TheLastWay-SpecialWeaponsContainer2.png) ](../img/TheLastWay/TheLastWay-SpecialWeaponsContainer2.png)|[ ![](../img/TheLastWay/TheLastWay-SpecialWeaponsContainer3.png) ](../img/TheLastWay/TheLastWay-SpecialWeaponsContainer3.png)|
 |__Default Weapon__|Ring Shot|Ring Shot|Flash Shot|
 
 <br />

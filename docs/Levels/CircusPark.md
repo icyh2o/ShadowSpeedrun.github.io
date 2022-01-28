@@ -26,7 +26,7 @@
 ## Shadow Boxes
 | |Box 1|Box 2|
 |-|-|-|
-|__Location__|X|x
+|__Location__|[ ![](../img/CircusPark/CircusPark-SpecialWeaponsContainer1.png) ](../img/CircusPark/CircusPark-SpecialWeaponsContainer1.png)|[ ![](../img/CircusPark/CircusPark-SpecialWeaponsContainer2.png) ](../img/CircusPark/CircusPark-SpecialWeaponsContainer2.png)|
 |__Default Weapon__|Assault Rifle|Heavy Machine Gun|
 
 <br />

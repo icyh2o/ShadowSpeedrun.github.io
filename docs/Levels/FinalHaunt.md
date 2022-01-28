@@ -26,7 +26,7 @@
 ## Shadow Boxes
 | |Box 1|Box 2|Box 3|
 |-|-|-|-|
-|__Location__|X|x|X|
+|__Location__|[ ![](../img/FinalHaunt/FinalHaunt-SpecialWeaponsContainer1.png) ](../img/FinalHaunt/FinalHaunt-SpecialWeaponsContainer1.png)|[ ![](../img/FinalHaunt/FinalHaunt-SpecialWeaponsContainer2.png) ](../img/FinalHaunt/FinalHaunt-SpecialWeaponsContainer2.png)|[ ![](../img/FinalHaunt/FinalHaunt-SpecialWeaponsContainer3.png) ](../img/FinalHaunt/FinalHaunt-SpecialWeaponsContainer3.png)|
 |__Default Weapon__|Ring Shot|Ring Shot|Heavy Shot|
 
 <br />

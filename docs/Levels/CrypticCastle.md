@@ -29,7 +29,7 @@
 ## Shadow Boxes
 | |Box 1|Box 2|Box 3|
 |-|-|-|-|
-|__Location__|X|x|X|
+|__Location__|[ ![](../img/CrypticCastle/CrypticCastle-SpecialWeaponsContainer1.png) ](../img/CrypticCastle/CrypticCastle-SpecialWeaponsContainer1.png)|[ ![](../img/CrypticCastle/CrypticCastle-SpecialWeaponsContainer2.png) ](../img/CrypticCastle/CrypticCastle-SpecialWeaponsContainer2.png)|[ ![](../img/CrypticCastle/CrypticCastle-SpecialWeaponsContainer3.png) ](../img/CrypticCastle/CrypticCastle-SpecialWeaponsContainer3.png)|
 |__Default Weapon__|Egg Gun|Ring Shot|Ring Shot|
 
 <br />

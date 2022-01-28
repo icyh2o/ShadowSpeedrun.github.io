@@ -26,7 +26,7 @@
 ## Shadow Boxes
 | |Box 1|Box 2|Box 3|Box 4|Box 5|
 |-|-|-|-|-|-|
-|__Location__|X|x|X|x|X|
+|__Location__|[ ![](../img/BlackComet/BlackComet-SpecialWeaponsContainer1.png) ](../img/BlackComet/BlackComet-SpecialWeaponsContainer1.png)|[ ![](../img/BlackComet/BlackComet-SpecialWeaponsContainer2.png) ](../img/BlackComet/BlackComet-SpecialWeaponsContainer2.png)|[ ![](../img/BlackComet/BlackComet-SpecialWeaponsContainer3.png) ](../img/BlackComet/BlackComet-SpecialWeaponsContainer3.png)|[ ![](../img/BlackComet/BlackComet-SpecialWeaponsContainer4.png) ](../img/BlackComet/BlackComet-SpecialWeaponsContainer4.png)|[ ![](../img/BlackComet/BlackComet-SpecialWeaponsContainer5.png) ](../img/BlackComet/BlackComet-SpecialWeaponsContainer5.png)|
 |__Default Weapon__|8 Shot Launcher|Flash Shot|Light Shot|Tank Cannon|Laser Rifle|
 
 <br />

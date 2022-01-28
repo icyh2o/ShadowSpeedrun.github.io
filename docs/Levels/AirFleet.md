@@ -26,7 +26,7 @@
 ## Shadow Boxes
 | |Box 1|Box 2|Box 3|Box 4|Box 5|Box 6|
 |-|-|-|-|-|-|-|
-|__Location__|X|x|x|x|x|x|
+|__Location__|[ ![](../img/AirFleet/AirFleet-SpecialWeaponsContainer1.png) ](../img/AirFleet/AirFleet-SpecialWeaponsContainer1.png)|[ ![](../img/AirFleet/AirFleet-SpecialWeaponsContainer2.png) ](../img/AirFleet/AirFleet-SpecialWeaponsContainer2.png)|[ ![](../img/AirFleet/AirFleet-SpecialWeaponsContainer3.png) ](../img/AirFleet/AirFleet-SpecialWeaponsContainer3.png)|[ ![](../img/AirFleet/AirFleet-SpecialWeaponsContainer4.png) ](../img/AirFleet/AirFleet-SpecialWeaponsContainer4.png)|[ ![](../img/AirFleet/AirFleet-SpecialWeaponsContainer5.png) ](../img/AirFleet/AirFleet-SpecialWeaponsContainer5.png)|[ ![](../img/AirFleet/AirFleet-SpecialWeaponsContainer6.png) ](../img/AirFleet/AirFleet-SpecialWeaponsContainer6.png)|
 |__Default Weapon__|Assault Rifle|Assault Rifle|Assault Rifle|Heavy Machine Gun|Assault Rifle|Heavy Machine Gun|
 
 <br />
