@@ -40,7 +40,11 @@ nav:
     - Guides:
         - Health, Points, and Other Values for Routing: Guides/ShadowPointsGuide.md
         - Shadow Practice Codes: Guides/ShadowPracticeCodesGuide.md
-        
+
+plugins:
+    - mkdocs-video:
+    - search:
+
 markdown_extensions:
     - admonition:
     - pymdownx.details:

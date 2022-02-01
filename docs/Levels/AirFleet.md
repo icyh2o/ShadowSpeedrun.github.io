@@ -41,4 +41,9 @@
 
 ## Notes of Interest
 
+### Air Fleet Dark End Glitch Timing Diferences
+TL:DW is that the same value used to fade to black on death is used for fade to white on mission complete.  We can shorted the time it takes to get to the mission complete screen by dying shortly after the objective condition is met, but before the make starts to fad to white. 
+
+This is only allowed for categories that do not rely on the In-Game-Timer for ranking as it sends you back to your last checkpoint which could be the very beginning with a time of 0:00:00.
+![type:video](https://www.youtube.com/embed/VcweLZfyTeE)
 <br />
