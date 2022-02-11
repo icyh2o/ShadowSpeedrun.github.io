@@ -33,6 +33,13 @@
 
 ## Enemies in Stage
 
+GUN Soldier
+GUN Beetle
+Golden Beetle
+Mono Beetle 
+Black Warrior
+Black Wing
+
 <br />
 
 ## Weapons Available
