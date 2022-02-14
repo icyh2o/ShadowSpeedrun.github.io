@@ -32,10 +32,25 @@
 <br />
 
 ## Enemies in Stage
+Black Warrior 
 
+Black Worm
+
+GUN Beetle 
+
+Mono Beetle
+
+Golden Beetle
 <br />
 
 ## Weapons Available
+Sub-Machine Gun
+
+Light Shot
+
+(Big/Wide) Worm Shooter
+
+Black Sword
 
 <br />
 
