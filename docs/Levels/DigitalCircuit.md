@@ -40,6 +40,8 @@ GUN Beetle
 
 Mono Beetle
 
+Spark Beetle
+
 Golden Beetle
 <br />
 
